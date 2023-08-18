@@ -1,8 +1,4 @@
-- 👋 Hello World !!  I’m @gonzalo
+- 👋 Hello World !!  I’m @Gonzalo
+  
 - Web Development
   
-const learning = {
-  languages: [Javascript, HTML, CSS],
-  
-  tools: [Figma, Framer, Git, GitHub, Node]
-}
