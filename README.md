@@ -3,5 +3,6 @@
   
 const learning = {
   languages: [Javascript, HTML, CSS],
+  
   tools: [Figma, Framer, Git, GitHub, Node]
 }
