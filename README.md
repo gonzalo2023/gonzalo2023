@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @gonzalo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-gonzalo2023/gonzalo2023 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hello World !!  I’m @gonzalo
+- Web Development
+  
+const learning = {
+  languages: [Javascript, HTML, CSS],
+  tools: [Figma, Framer, Git, GitHub, Node]
+}
